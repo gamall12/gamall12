@@ -1,3 +1,3 @@
-#EXTM3U
-2	#EXTINF:-1 tvg-id="HaitiViralNews.ht" tvg-country="HT" tvg-language="French;Creole" tvg-logo="https://i.imgur.com/eaPFJJs.jpg" group-title="",Haiti Viral News (720p) [Not 24/7]
-3	https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcEY2-g-EEefxyYa1gtrk4g/live
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
+56	#EXTINF:-1 tvg-id="SportTV1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Sports",Sport TV 1 (720p) [Offline]
+57	#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
